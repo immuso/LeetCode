@@ -1,0 +1,2 @@
+# LeetCode
+I have nothing better to do
